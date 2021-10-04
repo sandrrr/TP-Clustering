@@ -1,1 +1,3 @@
-# TP-Clustering
+# Clustering Labs
+
+Mengxia Shi & Mikhail Zakharov
